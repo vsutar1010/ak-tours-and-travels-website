@@ -1,0 +1,1 @@
+- [x] Modify Feedback.jsx to display feedbacks with navbar, title, statistics, filters, cards, highlighted review, pagination, and footer.

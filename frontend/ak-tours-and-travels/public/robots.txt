@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin-login
+Disallow: /admin-dashboard
+Disallow: /admin-news
+
+# Sitemap
+Sitemap: https://aktoursandtravels.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
