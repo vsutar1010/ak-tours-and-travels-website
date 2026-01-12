@@ -15,7 +15,7 @@ export const services = [
     description: 'Fast, safe, and on-time airport ride services for Pune Airport. Professional drivers ensure timely arrivals and departures with comfortable vehicles.',
     features: ['Flight tracking', 'Meet & greet service', 'Luggage assistance', '24/7 availability', 'On-time guarantee'],
     image: '/photos/services/pune-airport-pickup-drop.jpg',
-    price: 'Starting from ₹1200',
+    price: 'Contact for pricing',
     duration: '2-3 hours',
     icon: '✈️'
   },
@@ -105,7 +105,7 @@ export const services = [
     name: '16+1 Traveller Rental',
     description: 'Perfect for group transportation needs. Our Tempo Travellers are ready to take you to your destination with flexibility, safety, and comfort. Ideal for local trips, outstation trips, weddings, and college trips.',
     features: ['Local trips', 'Outstation trips', 'Wedding purposes', 'College trips', 'Large capacity', 'Comfortable seating', 'Experienced drivers'],
-    image: '/photos/services/16+2.jpg',
+    image: '/photos/services/16+1.jpg',
     price: 'Contact for pricing',
     duration: 'As required',
     icon: '🚌'
@@ -113,10 +113,10 @@ export const services = [
 
   {
     id: 12,
-    name: '16 +1 Traveller Rental',
+    name: '45 & 32 Traveller Rental',
     description: 'Perfect for group transportation needs. Our Travellers are ready to take you to your destination with flexibility, safety, and comfort. Ideal for local trips, outstation trips, weddings, and college trips.',
     features: ['Local trips', 'Outstation trips', 'Wedding purposes', 'College trips', 'Large capacity', 'Comfortable seating', 'Experienced drivers'],
-    image: '/photos/services/16+1.jpg',
+    image: '/photos/services/32_45.jpg',
     price: 'Contact for pricing',
     duration: 'As required',
     icon: '🚌'
